@@ -1,0 +1,3 @@
+dotenv==0.0.5
+paho-mqtt==1.5.1
+pyRFXtrx==0.23.0
